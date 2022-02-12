@@ -1,4 +1,4 @@
 # h2-comp
->Written in 2018 to 2019 for A-Levels 9597 Computing H2
+>Written in Python 3 for A-Levels 9597 Computing H2 (2018-2019)
 
 
